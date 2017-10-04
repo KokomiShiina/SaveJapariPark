@@ -123,6 +123,12 @@
   <data name="Friend's Name" xml:space="preserve">
     <value>フレンズの名前</value>
   </data>
+  <data name="Please enter your country" xml:space="preserve">
+    <value>Please enter your country</value>
+  </data>
+  <data name="Please enter your name" xml:space="preserve">
+    <value>Please enter your name</value>
+  </data>
   <data name="Which to send" xml:space="preserve">
     <value>紙飛行機の届き先</value>
   </data>

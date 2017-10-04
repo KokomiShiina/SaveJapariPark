@@ -123,4 +123,25 @@
   <data name="http500msg" xml:space="preserve">
     <value>If users encountered error 500, please consider to use the E-mail method.&lt;br /&gt;Sorry for any inconvenience caused. &lt;br /&gt;Please use the following QR Code if you are not using Gmail. &lt;br /&gt;</value>
   </data>
+  <data name="Conventional Mail" xml:space="preserve">
+    <value>Conventional Mail</value>
+  </data>
+  <data name="Friend's Name" xml:space="preserve">
+    <value>Friend's Name</value>
+  </data>
+  <data name="Friend's Nationality" xml:space="preserve">
+    <value>Friend's Nationality</value>
+  </data>
+  <data name="Please input your nationality!" xml:space="preserve">
+    <value>Please input your nationality!</value>
+  </data>
+  <data name="Please input your username!" xml:space="preserve">
+    <value>Please input your username!</value>
+  </data>
+  <data name="Receiving Company" xml:space="preserve">
+    <value>Receiving Company</value>
+  </data>
+  <data name="Send the email" xml:space="preserve">
+    <value>Send the email</value>
+  </data>
 </root>

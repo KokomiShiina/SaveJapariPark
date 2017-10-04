@@ -117,31 +117,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Conventional Mail" xml:space="preserve">
-    <value>郵件客戶端</value>
+  <data name="About" xml:space="preserve">
+    <value>About</value>
   </data>
-  <data name="Friend's Name" xml:space="preserve">
-    <value>朋友的名字</value>
+  <data name="Participate" xml:space="preserve">
+    <value>Participate</value>
   </data>
-  <data name="Friend's Nationality" xml:space="preserve">
-    <value>朋友的國籍</value>
-  </data>
-  <data name="Generate" xml:space="preserve">
-    <value>更新</value>
-  </data>
-  <data name="http500msg" xml:space="preserve">
-    <value>如果用戶遭遇500錯誤，請使用傳統郵件方法或者手動寄信。&lt;br /&gt;不便之處，敬請原諒。 &lt;br /&gt;「若没有Gmail，请扫描二维码使用下方传统邮件选项打开手机邮件客户端。使用微信的用户请选择在浏览器中打开。」&lt;br /&gt;</value>
-  </data>
-  <data name="Please input your nationality!" xml:space="preserve">
-    <value>請輸入你的國籍！</value>
-  </data>
-  <data name="Please input your username!" xml:space="preserve">
-    <value>請輸入你的名稱！</value>
-  </data>
-  <data name="Receiving Company" xml:space="preserve">
-    <value>收件公司</value>
-  </data>
-  <data name="Send the email" xml:space="preserve">
-    <value>跳轉到發送頁面</value>
+  <data name="Participated: {0}" xml:space="preserve">
+    <value>Participated: {0}</value>
   </data>
 </root>
