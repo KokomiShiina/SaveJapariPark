@@ -12840,7 +12840,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Eric\\.nuget\\packages\\": {},
+    "C:\\Users\\eric.lam\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12849,17 +12849,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Software_Development\\UTOSOFT\\notatsukinotanoshi\\notatsukinotanoshi\\notatsukinotanoshi.csproj",
+      "projectUniqueName": "E:\\Software_Development\\Temp\\notatsukinotanoshi\\notatsukinotanoshi\\notatsukinotanoshi.csproj",
       "projectName": "notatsukinotanoshi",
-      "projectPath": "C:\\Software_Development\\UTOSOFT\\notatsukinotanoshi\\notatsukinotanoshi\\notatsukinotanoshi.csproj",
-      "packagesPath": "C:\\Users\\Eric\\.nuget\\packages\\",
-      "outputPath": "C:\\Software_Development\\UTOSOFT\\notatsukinotanoshi\\notatsukinotanoshi\\obj\\",
+      "projectPath": "E:\\Software_Development\\Temp\\notatsukinotanoshi\\notatsukinotanoshi\\notatsukinotanoshi.csproj",
+      "packagesPath": "C:\\Users\\eric.lam\\.nuget\\packages\\",
+      "outputPath": "E:\\Software_Development\\Temp\\notatsukinotanoshi\\notatsukinotanoshi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Eric\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eric.lam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
