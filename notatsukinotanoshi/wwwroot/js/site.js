@@ -178,7 +178,6 @@ function generate() {
             if (data.status === "success") {
                 let info = data['returnData'];
                 templateBody = info['template'];
-                companyMail = info['email'];
                 fillTemplate();
             } else {
                 showNotification(data.message, "danger");
